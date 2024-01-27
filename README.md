@@ -1,4 +1,4 @@
 # CODSOFT
-Repository for Codsoft's Java development Internship
+Repository for Codsoft's Java Programming Internship
 
 # Project1
